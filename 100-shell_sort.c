@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
-*swap - the positions of two elements into an array
+*swap - the positions of two elements into an array ALX
 *@array: array
 *@item1: array element
 *@item2: array element
