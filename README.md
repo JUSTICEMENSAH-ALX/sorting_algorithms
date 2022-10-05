@@ -1,6 +1,8 @@
 # SORTING_ALGORITHMS
 0x1B. C - Sorting algorithms & Big O
+
 Resources📚
+
 Read or watch:
 
 Big-O Algorithm Complexity Cheat
